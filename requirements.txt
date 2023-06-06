@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+plotly
+regex
+ipykernel
+jupyter
+tqdm
