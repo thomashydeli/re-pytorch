@@ -4,3 +4,4 @@ data
 __pycache__
 *_testing.ipynb
 model*
+*.DS_Store
