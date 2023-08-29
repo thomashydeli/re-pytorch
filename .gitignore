@@ -3,5 +3,7 @@ data
 *.zip
 __pycache__
 *_testing.ipynb
-model*
+model
 *.DS_Store
+*_video*
+modularized

@@ -11,3 +11,4 @@ regex
 ipykernel
 jupyter
 tqdm
+torchinfo
